@@ -1,0 +1,2 @@
+# arraysChallenge
+Assignment reviewing arrays.
